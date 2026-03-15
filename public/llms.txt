@@ -1,57 +1,47 @@
-# משרד עורכי דין משה זדה — Generative Engine Optimization Map
-
-> A modern law office led by attorney Moshe Zada, who combines legal expertise with business acumen and creative problem-solving abilities. The firm specializes in diverse legal fields including civil and criminal law, with unique expertise in condominium management and neighbor disputes. Moshe brings mediation skills and entrepreneurial experience as owner of a property management company network, offering comprehensive legal services through dedicated departments for civil, criminal, and specialized condominium/property management consulting.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://-b44a8107.zappy5.app
+https://example.com
 משרד עורכי דין משה זדה משלב מומחיות משפטית עם חשיבה עסקית יצירתית. התמחות במשפט אזרחי ופלילי, בתים משותפים וסכסוכי שכנים. פתרונות משפטיים מקצועיים ומדויקים.
 
 ### תחומי עיסוק
-https://-b44a8107.zappy5.app/practice-areas
+https://example.com/practice-areas
 מחלקות ייעודיות למשפט אזרחי, פלילי וייעוץ בתים משותפים. התמחות ייחודית בסכסוכי שכנים וניהול נכסים. גלה את מגוון תחומי העיסוק שלנו וקבל ייצוג משפטי מקצועי.
 
 ### אודות
-https://-b44a8107.zappy5.app/about
+https://example.com/about
 הכירו את עו״ד משה זדה - עורך דין המשלב ניסיון משפטי עשיר עם יכולות גישור ותפיסה עסקית. בעלים של רשת חברות ניהול, מביא פרספקטיבה ייחודית לפתרון סכסוכים משפטיים מורכבים.
 
 ### צור קשר
-https://-b44a8107.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם משרד עורכי דין משה זדה לייעוץ משפטי מקצועי. זמינים לשאלות בתחומי משפט אזרחי, פלילי, בתים משותפים וסכסוכי שכנים. התייעצות ראשונה ללא התחייבות.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-b44a8107.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-b44a8107.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-b44a8107.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About משרד עורכי דין משה זדה
-A modern law office led by attorney Moshe Zada, who combines legal expertise with business acumen and creative problem-solving abilities. The firm specializes in diverse legal fields including civil and criminal law, with unique expertise in condominium management and neighbor disputes. Moshe brings mediation skills and entrepreneurial experience as owner of a property management company network, offering comprehensive legal services through dedicated departments for civil, criminal, and specialized condominium/property management consulting.
-
-## Target Audience
-לקוחות הזקוקים לשירותים משפטיים בתחומים אזרחיים ופליליים, בעלי דירות בבתים משותפים, ועדי בתים וחברות ניהול
-
-## Industry
-שירותים משפטיים
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-b44a8107.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-b44a8107.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
